@@ -45,3 +45,5 @@ if a user encouters an error, let them know what it was clearly. also make your 
 My opinions
 
 I have done a little programming before and have come across these concepts before. I can say the most important thing is to reduce errors and design to prevent them as well as the first 3 points made: Design for the users and their tasks, Be consistent, Use simple and natural dialogue. All however are important and I think it would be silly to suggest any of these points are not of great importance when designing software and stuff.
+
+In regards to the video, most of what was presented I thought was rather common sense. I found no surprising facts here but it was a good video none the less.
