@@ -1,1 +1,0 @@
-Every day in the army you had to have empathy for your brothers. Empathy is key to getting along and functioning well with others especially in a tight knit group. every day you had to understand your mates and know where they were coming from so conflict wouldn't arise.
